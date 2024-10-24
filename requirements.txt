@@ -1,6 +1,6 @@
-streamlit==1.20.0
+streamlit==1.39.0
 opencv-python==4.6.0.66
-mediapipe==0.10.15  # Updated version
+mediapipe==0.10.14  # Updated version
 numpy==1.23.0
 scikit-image==0.19.3
 Pillow==9.2.0
